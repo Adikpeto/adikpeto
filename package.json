@@ -1,0 +1,11 @@
+{
+  "name": "draggable",
+  "version": "1.0.0",
+  "description": "Drag the element",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "start index.js"
+  },
+  "author": "Adikpeto Aristide",
+  "license": "ISC"
+}
